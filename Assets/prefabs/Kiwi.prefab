@@ -99,5 +99,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kiwi
       objectReference: {fileID: 0}
+    - target: {fileID: 9189593798987433072, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}

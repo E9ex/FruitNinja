@@ -432,6 +432,8 @@ MonoBehaviour:
   - {fileID: 4229993456607594870, guid: 25f4cef126b98404f87721411f323743, type: 3}
   - {fileID: 4229993456607594870, guid: 77d810b4f555e4277b7de86e0d5bbd8b, type: 3}
   - {fileID: 4229993456607594870, guid: efba6133c93fb4b3e9cdb442ad937822, type: 3}
+  bombprefab: {fileID: 8038271875716062071, guid: e3848e176dcb64bdeb4fbac2c4c06029, type: 3}
+  bombchance: 0.05
   minxspawnDelay: 0.25
   maxSpawndelay: 1
   minAngle: -15

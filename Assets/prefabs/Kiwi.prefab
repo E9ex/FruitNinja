@@ -83,6 +83,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4968145778080128903, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5616377522184071438, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -102,6 +106,10 @@ PrefabInstance:
     - target: {fileID: 8157084768025536809, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
       propertyPath: m_Name
       value: Kiwi
+      objectReference: {fileID: 0}
+    - target: {fileID: 8332899959032421257, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9189593798987433072, guid: 7beaf3ea106fd46518b73cf3de224d6c, type: 3}
       propertyPath: m_LocalPosition.y

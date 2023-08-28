@@ -35,7 +35,7 @@ public class Blade : MonoBehaviour
       if (Input.GetMouseButtonDown(0))
       {
        startSlicing();
-      }else if (Input.GetMouseButtonDown(0))
+      }else if (Input.GetMouseButtonUp(0))
       {
          stopSlicing();
       } else if (slicing)

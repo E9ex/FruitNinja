@@ -53,7 +53,6 @@ public class Fruitt : MonoBehaviour
         {
             Blade blade = other.GetComponent<Blade>();
             Slice(blade.direction, blade.transform.position, blade.sliceforce);
-            Debug.Log("çalişiyorum ontriggerr");
         }
     }
 }
